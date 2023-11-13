@@ -1,5 +1,3 @@
-Certainly! Here's a revised README for the provided ToDoMERN repository:
-
 # ToDoMERN - Full Stack Todo Application
 
 Welcome to ToDoMERN, a full-stack Todo application built using the MERN (MongoDB, Express.js, React, Node.js) stack. This application enables users to efficiently manage their tasks, offering features like adding, editing, and deleting tasks. The MERN stack provides a flexible and scalable foundation, making it an excellent choice for developing modern web applications.
